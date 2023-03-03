@@ -1,41 +1,62 @@
 {
   "project_info": {
-    "project_number": "737324714295",
-    "project_id": "dark-knights-pict",
-    "storage_bucket": "dark-knights-pict.appspot.com"
+    "project_number": "579553647862",
+    "project_id": "cloud-accounting-2",
+    "storage_bucket": "cloud-accounting-2.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:737324714295:android:0cc329035728f4c20ff2b2",
+        "mobilesdk_app_id": "1:579553647862:android:8d437b9c3676a1d89920d7",
         "android_client_info": {
           "package_name": "com.darkkinghts.app.darkknightspict"
         }
       },
       "oauth_client": [
         {
-          "client_id": "737324714295-7m6negd95p1ig7ooqbq003nmuff98t1u.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.darkkinghts.app.darkknightspict",
-            "certificate_hash": "1b9f7646632fe60fce0b2c61db0ee3eee873393f"
-          }
-        },
-        {
-          "client_id": "737324714295-7en8imnna0fdulosnv671cvijsa5cfbp.apps.googleusercontent.com",
+          "client_id": "579553647862-deiudfml007jtdnjgg1gh96kvr5c102f.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyASw4f4GHDehxznwesmumhnv93BIWL7M_Y"
+          "current_key": "AIzaSyAWzlgmNuDzUyu1AINjwOCHSEZIVPdyYu4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "737324714295-7en8imnna0fdulosnv671cvijsa5cfbp.apps.googleusercontent.com",
+              "client_id": "579553647862-agi7focukar27uncbcntuiism8aiulah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579553647862:android:3baff1b3d6179f349920d7",
+        "android_client_info": {
+          "package_name": "com.pictdarts.cloudaccounting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579553647862-deiudfml007jtdnjgg1gh96kvr5c102f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWzlgmNuDzUyu1AINjwOCHSEZIVPdyYu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579553647862-agi7focukar27uncbcntuiism8aiulah.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
